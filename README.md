@@ -36,7 +36,7 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/keerthivasan_04?theme=wtf&font=Archivo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/keerthivasan_04?theme=light&font=DM%20Sans&ext=contest)
 
 [![Keerthivasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthivasan-04&bg_color=ffffff&color=000000&line=14ea10&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
